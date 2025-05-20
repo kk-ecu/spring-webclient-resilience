@@ -1,6 +1,6 @@
 # Project Title
 
-A brief description of what your project does.
+A brief description of what this project does.
 
 ## Overview
 
