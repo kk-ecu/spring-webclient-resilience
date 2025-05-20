@@ -1,0 +1,34 @@
+# Compiled class files
+*.class
+
+# Packaged archives
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+target/
+
+# Maven specific files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# macOS system files
+.DS_Store
+
+# Log files
+logs/
+*.log
+
+# Temporary files
+tmp/
