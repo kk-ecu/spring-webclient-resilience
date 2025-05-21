@@ -1,6 +1,6 @@
 # Project Title
 
-A brief description of what this project does.
+**Resilient asynchronous ** HTTP client service using Spring Boot, Maven, and **Resilience4j with reactive** programming
 
 ## Overview
 
